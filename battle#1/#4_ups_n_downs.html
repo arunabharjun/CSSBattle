@@ -1,0 +1,34 @@
+<div class='mid'></div>
+<div class='left'></div>
+<div class='right'></div>
+<style>
+  body{
+    background:#62306D;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+  }
+  div {
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    background:#F7EC7D;
+    border-radius: 50% 50% 0 0;
+  }
+  
+  .mid{
+    top: 50px;
+  }
+  
+  .left{
+    bottom: 50px;
+    left:50px;
+    transform:rotate(180deg);
+  }
+  
+  .right{
+    bottom: 50px;
+    right:50px;
+    transform:rotate(180deg);
+  }
+</style>

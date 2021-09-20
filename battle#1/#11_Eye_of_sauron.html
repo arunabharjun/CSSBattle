@@ -1,0 +1,52 @@
+<div class='mid'></div>
+<div class='right cr'>
+	<div class='semi'></div>
+</div>
+<div class='left cr'>
+	<div class='semi'></div>
+</div>
+
+<style>
+  body{
+    background:#191210;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  div{
+    position:absolute;
+    border-radius:50%;
+  }
+  .mid {
+    width: 50;
+    height: 50;
+    background: #84271C;
+    box-shadow: 0 0 0 25px #191210, 0 0 0 45px #ECA03D;
+  }
+  .right{
+    right:50;
+    top:100;
+  }
+  .left{
+    transform:rotate(180deg);
+    left:50;
+    bottom:100;
+  }
+  .cr{
+    height: 50;
+    width:100;
+    border-radius:unset;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+  }
+  .semi{
+    width:60;
+    height:60;
+    background:#191210;
+    top:20;
+    box-shadow:0 0 0 20px #ECA03D;
+  }
+  
+</style>

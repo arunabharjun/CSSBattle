@@ -1,0 +1,36 @@
+<div class='s1'></div>
+<div class='s2 sk'></div>
+<div class='s3 sk'></div>
+<style>
+  body{
+    background:#0B2429;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+  }
+  div {
+    position:absolute;
+    background: #F3AC3C;
+  }
+  .s1{
+    top:135;
+    width: 100px;
+    height: 100px;
+    transform:rotate(45deg);
+  }
+  .sk{
+    width:100;
+    height:50;
+    top:90;
+  }
+  .s2{
+    transform:rotate(45deg) skew(45deg);
+    background:#1A4341;
+    right:115;
+  }
+  .s3{
+    background:#998235;
+    transform:rotate(-45deg) skew(-45deg);
+    left:115;
+  }
+</style>

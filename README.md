@@ -6,8 +6,7 @@ In this repo, I will upload solution all the battles from cssbattle.dev as I kee
 
 > Please use this for referene & educational purposes only. Do note that all the sollutions being listed here are all mine and have been written from scrath by me (Arunabh Arjun)
 
-
-## Index -
+#
 
 ### [Battle#1](https://github.com/arunabharjun/CSSBattle/tree/main/battle%231) Pilot Battle
 * [#1 Simply Square](https://github.com/arunabharjun/CSSBattle/blob/main/battle%231/%231_simply_square.html)

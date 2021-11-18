@@ -47,6 +47,7 @@ In this repo, I will upload solution all the battles from cssbattle.dev as I kee
 
 ### [Battle#5](https://github.com/arunabharjun/CSSBattle/tree/main/battle%235) Inline
 * [#29 Suffocate](https://github.com/arunabharjun/CSSBattle/blob/main/battle%235/%2329_Suffocate.html)
+* [#30 Horizon](https://github.com/arunabharjun/CSSBattle/blob/main/battle%235/%2330_Horizon.html)
 
 
 

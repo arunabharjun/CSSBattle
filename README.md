@@ -1,4 +1,4 @@
-# Looking for solutions to CSSBATTLE.DEV ?
+# Looking for CSS Battle Solutions?
 
 ## Find the solution to all the battles as I keep solving them in this repo.
 

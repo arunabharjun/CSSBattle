@@ -50,4 +50,6 @@ In this repo, I will upload solution all the battles from cssbattle.dev as I kee
 * [#30 Horizon](https://github.com/arunabharjun/CSSBattle/blob/main/battle%235/%2330_Horizon.html)
 
 
+### [Battle#6](https://github.com/arunabharjun/CSSBattle/tree/main/battle%236) Conic
+* [#31 Equals](https://github.com/arunabharjun/CSSBattle/blob/main/battle%236/%2331_Equals.html)
 

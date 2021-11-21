@@ -52,4 +52,4 @@ In this repo, I will upload solution for all the battles from cssbattle.dev as I
 
 ### [Battle#6](https://github.com/arunabharjun/CSSBattle/tree/main/battle%236) Conic
 * [#31 Equals](https://github.com/arunabharjun/CSSBattle/blob/main/battle%236/%2331_Equals.html)
-
+* [#33 Band-aid](https://github.com/arunabharjun/CSSBattle/blob/main/battle%236/%2332_Band-aid.html)

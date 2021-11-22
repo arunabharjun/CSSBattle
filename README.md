@@ -4,7 +4,7 @@
 
 In this repo, I will upload solution for all the battles from cssbattle.dev as I keep solving them. You can find my css battle profile here - https://cssbattle.dev/player/arunabh
 
-> Please use this for referene & educational purposes only. Do note that all the sollutions being listed here are all mine and have been written from scrath by me (Arunabh Arjun)
+> Please use this for reference & educational purposes only. Do note that all the sollutions being listed here are all mine and have been written from scrath by me (Arunabh Arjun)
 
 #
 

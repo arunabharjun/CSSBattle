@@ -57,3 +57,4 @@ In this repo, I will upload solution for all the battles from cssbattle.dev as I
 
 ### [Battle#7](https://github.com/arunabharjun/CSSBattle/tree/main/battle%237) Backface
 * [#33 Birdie](https://github.com/arunabharjun/CSSBattle/blob/main/battle%237/%2333_Birdie.html)
+* [#34 Christmas Tree](https://github.com/arunabharjun/CSSBattle/blob/main/battle%237/%2334_Christmas_Tree.html)
